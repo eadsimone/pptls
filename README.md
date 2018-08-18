@@ -1,6 +1,7 @@
 # Project piedra, papel, tijera, lagarto o spock.
 
-Game of Hacer el juego customizado de piedra papel o tijera. 
+Game of Rock, Paper, Scissors, Lizard, Spock - automatically play between two player 
+Juego customizado de piedra papel o tijera. 
 
 ### Prerequisites
 

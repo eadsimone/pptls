@@ -1,0 +1,25 @@
+{
+    "name": "eadsimone/pptls",
+    "description": "pptls mean piedra, papel, tijera, lagarto y spock in spanish. It is a funny game with some customization .",
+    "keywords": ["pptls", "composer", "package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ezequiel De Simone",
+            "email": "eadesimone@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.2.*",
+        "phpdocumentor/phpdocumentor": "2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "Eadesimone\\PPTLS\\": "src/"
+        }
+    }
+}
